@@ -8,7 +8,7 @@ This blogs project allows the user to publish their blogs in the application. In
 # Running the Project Locally
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/prashver/Django-blog-application.git
+git clone https://github.com/prashver/Blog-application.git
 ```
 
 Install the requirements:
